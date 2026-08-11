@@ -30,7 +30,7 @@ from telegram.ext import (
 # SOZLAMALAR
 # =========================================================
 
-TOKEN = "BU_YERGA_YANGI_BOT_TOKENINGIZNI_QOYING"
+TOKEN = "8940217521:AAFosKMDb9ErS-9KQIyzS20GvXOYNeXknTg"
 
 OWNER_ID = 5940450585
 
